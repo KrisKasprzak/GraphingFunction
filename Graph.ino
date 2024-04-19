@@ -192,7 +192,6 @@ void setup() {
     Graph(tft, x, y, 50, 250, 150, 150, 0, 13, 3.5, -1, 1, 1, "Sin(x)", "x", "sin(x)", DKBLUE, RED, YELLOW, WHITE, BLACK, display5);
   }
 
-  while (1) {}
   tft.setRotation(3);
   delay(5000);
   tft.fillScreen(WHITE);
