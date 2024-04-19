@@ -15,7 +15,7 @@ https://github.com/adafruit/Touch-Screen-Library/archive/master.zip
 Revisions
 rev     date        author      description
 1       12-24-2015  kasprzak    initial creation
-
+2       04-19-2024  kasprzak    added example in loop for automatic rollover for continued data plotting--and fixed graph function to accomodate
 
 This pin setting will also operate the SD card
 
